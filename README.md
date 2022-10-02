@@ -58,6 +58,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reckon762&show_icons=true&locale=en&layout=compact" alt="reckon762" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reckon762&show_icons=true&locale=en" alt="reckon762" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reckon762&show_icons=true&locale=en&theme=dark" alt="reckon762" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reckon762&" alt="reckon762" /></p>
