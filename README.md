@@ -59,8 +59,8 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 <div>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reckon762&show_icons=true&locale=en&theme=tokyonight" alt="reckon762" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reckon762&show_icons=true&locale=en&layout=full&theme=tokyonight" alt="reckon762" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reckon762&show_icons=true&locale=en&theme=tokyonight" alt="reckon762" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reckon762&theme=tokyonight" alt="reckon762" /></p>
 </div>
 
