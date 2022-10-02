@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Bhardwaj</h1>
 <h3 align="center">A undergraduate student at IIT Gandhinagar, India</h3>
-
+<br>
 
 - 🔭 I’m currently working on **Image processing**
 
