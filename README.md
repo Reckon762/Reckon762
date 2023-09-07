@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **Image processing**
 
-- 🌱 I’m currently learning **Deep Learning and Graphical Neural Network**
-
-- 💬 Ask me about **Computer Vision, Web-development, Machine Learning**
+- 💬 Ask me about **Computer Vision, Machine Learning**
 
 - 📫 How to reach me **bhardwajkaran762@gmail.com**
 
