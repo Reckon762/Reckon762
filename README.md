@@ -42,7 +42,7 @@
 </div>
 
 ---
-### Find Me @
+### Find Me @ :handshake:
 
 <div align="center">
     
