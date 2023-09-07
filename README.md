@@ -26,7 +26,7 @@
 </div>
 
 ---
-### What I Mostly Work With
+### What I Mostly Work With :man_technologist:
 <div align="center">
 
    ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
