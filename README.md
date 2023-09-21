@@ -41,7 +41,7 @@
 <div align="center"> 
     <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Reckon762&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="karan's github stats" /></a>
     <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reckon762&hide=java&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="karan's github stats" /></a>
-    <a href="#"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Reckon762&theme=tokyonight&hide_border=true" alt="karan's github stats"/></a>
+<!--     <a href="#"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Reckon762&theme=tokyonight&hide_border=true" alt="karan's github stats"/></a> -->
 </div>
 
 ---
